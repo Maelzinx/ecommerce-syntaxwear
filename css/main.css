@@ -1,1 +1,4 @@
 /* Main CSS File */
+body {
+    font-family: var(--fonte-principal);
+}                                                               
